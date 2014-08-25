@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">ClearCard</string>
+    <string name="app_chi_name">纸牌消除</string>
+    <string name="new_game">新的游戏</string>
+    <string name="rank">排行榜</string>
+    <string name="setup">游戏设置</string>
+    <string name="time">时间</string>
+    <string name="time_def">60</string>
+    <string name="score">分数</string>
+    <string name="score_def">0</string>
+    <string name="pause">暂停</string>
+    <string name="goon">继续</string>
+    <string name="refresh">重新开始</string>
+    <string name="back">返回</string>
+    <string name="score_label">您本次的得分为</string>
+    <string name="score_desc_none">继续加油吧</string>
+    <string name="score_desc_first">恭喜您获得了第一名</string>
+    <string name="score_desc_second">恭喜您获得了第二名</string>
+    <string name="score_desc_third">恭喜您获得了第三名</string>
+    <string name="score_desc_fourth">恭喜您获得了第四名</string>
+    <string name="rank_first">第一名</string>
+    <string name="rank_second">第二名</string>
+    <string name="rank_third">第三名</string>
+    <string name="rank_fourth">第四名</string>
+    <string name="share_renren">分享到人人</string>
+    <string name="replay_game">再来一局</string>
+    <string name="back_menu">回到主菜单</string>
+    
+</resources>

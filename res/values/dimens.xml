@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="title_eng_size">30dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="title_chi_size">40dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="text_size">20dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="button_text_size">20dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="game_padding">30dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="btnGroup_padding">5dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="message_padding">5dp</dimen>
+    <dimen android:id="@+id/dimen1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="time_number">24dp</dimen>
+    
+</resources>

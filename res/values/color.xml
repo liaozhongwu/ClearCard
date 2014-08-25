@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="heart_color">#cc0066</color>
+    <color name="spade_color">#0099ff</color>
+    <color name="club_color">#339933</color>
+    <color name="diamond_color">#ffff00</color>    
+    <color name="board_background">#999999</color>
+    <color name="time_number">#ffffff</color>
+    <color name="time_background">#999999</color>
+    <color name="time_process">#0099ff</color>
+    
+</resources>
